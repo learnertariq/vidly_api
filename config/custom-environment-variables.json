@@ -1,0 +1,4 @@
+{
+  "name": "app_name",
+  "jwtPrivateKey": "vidly_jwtPrivateKey"
+}

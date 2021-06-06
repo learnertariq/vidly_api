@@ -1,0 +1,5 @@
+{
+  "name": "Development_ App",
+  "dbUrl": "mongodb://localhost/vidly",
+  "jwtPrivateKey": "vidly_jwtPrivateKey"
+}
